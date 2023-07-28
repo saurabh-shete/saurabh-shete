@@ -13,9 +13,9 @@ const MySelf = {
     serverSoftware: ["Node.js","Express.js"],
     programming_lang: ["Javascript","C","Python","C++"]
     Tools & IDE: ["Vscode","Git","Jupyter Notebook","Google Colab"],
-    Libraries: ["TensorFlow", "Sklearn"]
+    ML Libraries: ["TensorFlow", "Sklearn"]
   },
-  languages: ["Hindi", "English","Marathi"],
+  languages: ["English", "Hindi","Marathi"],
   currentFocus: "Learning and implementing"
 }
 ```
