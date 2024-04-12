@@ -32,7 +32,7 @@ const MySelf = {
 
 
 <p>
-<img src="https://github-readme-stats-saurabh-shetes-projects.vercel.app/api/top-langs/?username=saurabh-shete">
+<img src="https://github-readme-stats-saurabh-shetes-projects.vercel.app/api/top-langs/?username=saurabh-shete&count_private=true">
 <img src="https://github-readme-stats-saurabh-shetes-projects.vercel.app/api?username=saurabh-shete&count_private=true&show_icons=true&line_height=20">
 
 </p>
