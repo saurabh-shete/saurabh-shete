@@ -6,17 +6,18 @@
 <p><em> MERN Developer with a big interest in AI/ML 👨‍💻</em></p>
 
 ```javascript
-const MySelf = {
- Name: "Saurabh Shete",
- programmingSkills: {
-    clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Redux.js"],
-    serverSoftware: ["Node.js","Express.js"],
-    programming_lang: ["Javascript","C","Python","C++"]
-    Tools & IDE: ["Vscode","Git","Jupyter Notebook","Google Colab"],
-    ML Libraries: ["TensorFlow", "Sklearn"]
+const mySelf = {
+ name: "Saurabh Shete",
+  programmingSkills: {
+    clientSoftware: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Redux.js"],
+    serverSoftware: ["Node.js", "Express.js", "FastAPI"],
+    database: ["PostgreSQL", "MongoDB"],
+    programmingLang: ["Javascript", "Python", "C++"],
+    toolsIde: ["Vscode", "Git", "Jupyter Notebook", "Google Colab", "AWS"],
+    MlLibraries: ["TensorFlow", "Sklearn"],
   },
   languages: ["English", "Hindi","Marathi"],
-  currentFocus: "Learning and implementing"
+  currentFocus: "Learning and implementing new AI/ML and full-stack technologies"
 }
 ```
 
