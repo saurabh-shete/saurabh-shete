@@ -7,7 +7,7 @@ Software Engineer | Full Stack Developer | API and SaaS Specialist
 A versatile software developer with a strong foundation in both backend and frontend technologies, specializing in creating scalable solutions with React, Node.js, FastAPI, and Flask. With professional experience in API testing and automation, cross-border trade platforms, and carbon emission tracking applications, I bring innovative and efficient approaches to software engineering. I'm dedicated to delivering impactful, user-friendly products.
 
 * 🌍  I'm based in Pune, India
-* ✉️  You can contact me at [shetesaurabh872@gmail.com](mailto:shetesaurabh872@gmail.com)
+* ✉️  You can contact me at [ss.saurabhshete@gmail.com](mailto:ss.saurabhshete@gmail.com)
 * 🧠  I'm learning Advanced CI/CD processes, cloud infrastructure management, and data science methods to optimize predictive analysis.
 * 🤝  I'm open to collaborating on Projects that involve full-stack development, API integrations, and research-driven applications in machine learning and deep learning.
 * ⚡  I was a winner of the Smart India Hackathon 2023 and published research on advanced neural network techniques for cancer prediction. Let’s connect to explore more about tech innovations and impactful development!
